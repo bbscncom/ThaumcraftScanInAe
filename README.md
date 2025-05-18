@@ -4,7 +4,7 @@ Just a simple iteration through all items, which might cause stuttering/lagging.
 
 
 
-depend aeuel and thaumcraft  version 1.12
+depend aeuel and thaumcraft6  version 1.12
 
 
 
